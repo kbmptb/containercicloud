@@ -1,0 +1,11 @@
+{
+  "version" : "1.0.0",
+  "disable" : null,
+  "requiredInstallableUnits" : [ {
+    "id" : "org.talend.lite.di.docker.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.publish.feature.feature.group"
+  }, {
+    "id" : "org.talend.lite.di.testcontainer.feature.feature.group"
+  } ]
+}
